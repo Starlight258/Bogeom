@@ -26,6 +26,7 @@
 </br>
 
 ## 메인 서버 및 데이터베이스 설계
+![image](https://github.com/Starlight258/Bogeom/assets/78211281/35f90b08-7854-4f74-9ef1-97d71e3d45d7)
 
 ![image](https://github.com/Starlight258/Bogeom_Server/assets/78211281/2ab8f4e2-dfcd-4c73-8301-1c37fcbf8ee3)
 </br>
