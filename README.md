@@ -14,7 +14,7 @@
 -  REST API
 
 ## 프로젝트 전체 구조
-<p align="center"><img width="600" alt="image" src="https://github.com/eunsung-choi/Bogeom_Server/assets/83803746/f12d7e9e-deb4-4a35-b23a-08864f3b79d0"></p>
+![image](https://github.com/Starlight258/Bogeom_Server/assets/78211281/fbb350ac-294e-4ab7-b038-cda62465660c)
 
 - 모바일 애플리케이션: 사용자가 실시간으로 가격표 객체 탐지가 되는 카메라를 통해 상품의 가격표를 촬영하면 인식된 가격표 이미지가 웹 서버로 전송된다. 
 - 웹 서버: 사용자로부터 전송받은 이미지를 다시 인공지능 서버로 전송한다. 
@@ -23,18 +23,17 @@
 - 크롤링 서버: 일정 주기마다 상품 가격을 수집하여 데이터베이스에 업데이트한다. 
 - Chat 서버: 사용자가 상품 추천 메시지를 보내면 Prompt Engineering 및 ChatGPT를 활용하여 모바일에 응답 메시지를 보낸다.
 
+</br>
+
 ## 메인 서버 및 데이터베이스 설계
 
-<p align="center"><img width="600" alt="image" src="https://github.com/eunsung-choi/Bogeom_Server/assets/83803746/de072d9f-05fe-4dec-a35a-a529e0adbb7d"></p>
+![image](https://github.com/Starlight258/Bogeom_Server/assets/78211281/2ab8f4e2-dfcd-4c73-8301-1c37fcbf8ee3)
 </br>
-<p align="center"><img width="600" alt="image" src="https://github.com/eunsung-choi/Bogeom_Server/assets/83803746/1f43887f-dc35-4c34-81ae-dc7e0c4f57e1">  </p>
-</br>
-<p align="center"><img width="600" alt="image" src="https://github.com/eunsung-choi/Bogeom_Server/assets/83803746/f09ae106-8124-456a-addc-6b21e24e2756"></p>
+
+## API
+![image](https://github.com/Starlight258/Bogeom_Server/assets/78211281/444621fb-f645-497d-898d-f57442c32c73)
+![image](https://github.com/Starlight258/Bogeom_Server/assets/78211281/e6491657-c80d-47c5-9cdb-65207454ece4)
 
 ## 모바일 UI 디자인
+![image](https://github.com/Starlight258/Bogeom_Server/assets/78211281/86395197-31b2-4411-a2cb-f80d0ea4c80b)
 
-<p align="center"><img width="600" alt="image" src="https://github.com/eunsung-choi/Bogeom_Server/assets/83803746/0842b4a0-8274-4cd3-a81f-71193fd3bccb"></p>
-
-</br>
-
-<p align="center"><img width="600" alt="image" src="https://github.com/eunsung-choi/Bogeom_Server/assets/83803746/c7037a15-a51d-42c1-a109-d8f7bb027832"></p>
