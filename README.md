@@ -77,4 +77,12 @@
 <img width="617" alt="image" src="https://github.com/Starlight258/Bogeom/assets/78211281/1b7d0530-3e33-4fbe-bac6-18a7e56db03f">
 <img width="593" alt="image" src="https://github.com/Starlight258/Bogeom/assets/78211281/69259834-1112-4b8d-abe9-77083cbfa5e1">
 
+## 연구 성과
+<img width="604" alt="image" src="https://github.com/Starlight258/Bogeom/assets/78211281/39f5cfe5-a365-4f91-bb86-c2462b0198af">
+<img width="604" alt="image" src="https://github.com/Starlight258/Bogeom/assets/78211281/3576d69e-2207-41da-9411-7453cfc0b3f7">
+
+### 수상 내역
+<img width="580" alt="image" src="https://github.com/Starlight258/Bogeom/assets/78211281/644e8996-8b76-43eb-af8a-7f9dde877b2b">
+
+
 
