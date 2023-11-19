@@ -75,8 +75,6 @@
 
 ## 모바일 UI 디자인
 <img width="617" alt="image" src="https://github.com/Starlight258/Bogeom/assets/78211281/76cb80ec-a31c-4938-8215-39f8fbb33487">
-<img width="617" alt="image" src="https://github.com/Starlight258/Bogeom/assets/78211281/1b7d0530-3e33-4fbe-bac6-18a7e56db03f">
-<img width="593" alt="image" src="https://github.com/Starlight258/Bogeom/assets/78211281/69259834-1112-4b8d-abe9-77083cbfa5e1">
 
 ## 연구 성과
 <img width="604" alt="image" src="https://github.com/Starlight258/Bogeom/assets/78211281/39f5cfe5-a365-4f91-bb86-c2462b0198af">
