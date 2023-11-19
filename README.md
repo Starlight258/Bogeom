@@ -1,4 +1,5 @@
 # BOGEOM
+<img width="293" alt="image" src="https://github.com/Starlight258/Bogeom/assets/78211281/7ca41323-31e6-47dc-92d7-1f3403a22b89">
 
 ### Summary
 "오프라인 상점에서 간편하게 상품 정보, 리뷰, 온라인 가격을 검색할 수 없을까?"라고 자주 생각했습니다. <br/>
