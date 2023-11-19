@@ -83,7 +83,8 @@
 <img width="604" alt="image" src="https://github.com/Starlight258/Bogeom/assets/78211281/3576d69e-2207-41da-9411-7453cfc0b3f7">
 
 ### 수상 내역
+#### 학부생 논문 경진대회 우수논문상
 <img width="580" alt="image" src="https://github.com/Starlight258/Bogeom/assets/78211281/644e8996-8b76-43eb-af8a-7f9dde877b2b">
 
-
-
+#### 캡스톤디자인 소프트웨어중심사업단 성과발표회 금상(1등)
+<img width="591" alt="image" src="https://github.com/Starlight258/Bogeom/assets/78211281/70458560-ba25-4449-912f-46f97949f088">
